@@ -9,7 +9,7 @@ export const revalidate = 3600
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Neighborhood Guides | Crestview Realty',
+  title: 'Neighborhood Guides | X. Real Estate',
   description: 'Explore local neighborhoods with median prices, walk scores, and lifestyle guides to find the right community for you.',
 }
 

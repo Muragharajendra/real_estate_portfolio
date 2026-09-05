@@ -8,7 +8,7 @@ import { Home, Users } from 'lucide-react'
 interface HeroSectionProps { homepageContent: DrupalHomepage | null | undefined }
 
 export default function HeroSection({ homepageContent }: HeroSectionProps) {
-  const title = (homepageContent as any)?.heroTitle || (homepageContent as any)?.title || 'Compass Realty Group'
+  const title = (homepageContent as any)?.heroTitle || (homepageContent as any)?.title || 'X. Real Estate'
   const subtitle = (homepageContent as any)?.heroSubtitle || 'Full-service real estate solutions for buyers, sellers, and investors with local expertise and personalized service.'
   const description = (homepageContent as any)?.heroDescription?.processed || ''
 
@@ -33,7 +33,7 @@ export default function HeroSection({ homepageContent }: HeroSectionProps) {
           <div className="lg:col-span-2 relative">
             <div className="absolute -top-4 -right-4 w-full h-full bg-primary-200 rounded-2xl" />
             <div className="absolute -bottom-4 -left-4 w-24 h-24 bg-accent-100 rounded-2xl" />
-            <Image src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80&fit=crop" alt="Compass Realty Group luxury property" width={800} height={600} className="relative rounded-2xl shadow-xl object-cover w-full" priority unoptimized />
+            <Image src="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80&fit=crop" alt="X. Real Estate luxury property" width={800} height={600} className="relative rounded-2xl shadow-xl object-cover w-full" priority unoptimized />
           </div>
         </div>
       </div>

@@ -59,7 +59,7 @@ export default function Header() {
               <Home className="w-6 h-6 text-accent-400" />
             </div>
             <div className="hidden sm:block">
-              <span className="text-lg font-bold text-white leading-tight font-display">Compass Realty</span>
+              <span className="text-lg font-bold text-white leading-tight font-display">X. Real Estate</span>
               <span className="block text-xs text-primary-300 font-medium -mt-0.5">Group</span>
             </div>
           </Link>

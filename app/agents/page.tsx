@@ -9,7 +9,7 @@ export const revalidate = 3600
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Our Agents | Crestview Realty',
+  title: 'Our Agents | X. Real Estate',
   description: 'Meet our licensed real estate agents and brokers. Experienced professionals ready to help you buy, sell, or invest.',
 }
 

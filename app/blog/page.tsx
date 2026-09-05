@@ -9,8 +9,8 @@ export const revalidate = 3600
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Blog | Crestview Realty',
-  description: 'Real estate market updates, homebuyer guides, seller tips, and neighborhood insights from the Crestview Realty team.',
+  title: 'Blog | X. Real Estate',
+  description: 'Real estate market updates, homebuyer guides, seller tips, and neighborhood insights from the X. Real Estate team.',
 }
 
 async function getBlogPosts() {

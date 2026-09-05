@@ -39,7 +39,7 @@ export default function HomepageRenderer({ homepageContent }: HomepageRendererPr
       <section className="py-16 md:py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-black text-primary-950 mb-4 font-display">Why Choose Compass Realty</h2>
+            <h2 className="text-3xl md:text-4xl font-black text-primary-950 mb-4 font-display">Why Choose X. Real Estate</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">We combine deep local expertise with modern technology to deliver an exceptional real estate experience.</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -83,7 +83,7 @@ export default function HomepageRenderer({ homepageContent }: HomepageRendererPr
             <div className="col-span-2 md:col-span-3 lg:col-span-1">
               <div className="flex items-center space-x-2 mb-4">
                 <div className="w-8 h-8 bg-white/10 rounded-lg flex items-center justify-center border border-white/20"><Home className="w-5 h-5 text-accent-400" /></div>
-                <span className="text-lg font-bold text-white font-display">Compass Realty</span>
+                <span className="text-lg font-bold text-white font-display">X. Real Estate</span>
               </div>
               <p className="text-primary-300 text-sm mb-4 leading-relaxed">Your trusted real estate partner delivering exceptional results since 2005.</p>
               <div className="space-y-2 text-sm text-primary-300">
@@ -136,7 +136,7 @@ export default function HomepageRenderer({ homepageContent }: HomepageRendererPr
             </div>
           </div>
           <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-primary-400">
-            <p>&copy; {new Date().getFullYear()} Compass Realty Group. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} X. Real Estate. All rights reserved.</p>
             <div className="flex gap-6">
               <a href="/about" className="hover:text-white transition-colors">Privacy Policy</a>
               <a href="/about" className="hover:text-white transition-colors">Terms of Use</a>

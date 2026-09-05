@@ -6,10 +6,10 @@
         "entity": {
           "__typename": "NodeHomepage",
           "id": "homepage",
-          "title": "Crestview Realty Homepage",
+          "title": "X. Real Estate Homepage",
           "path": "/homepage",
           "heroTitle": "Find Your Perfect Home",
-          "heroSubtitle": "Crestview Realty",
+          "heroSubtitle": "X. Real Estate",
           "heroDescription": {
             "processed": "<p>Whether you are buying your first home, upgrading to your dream property, or investing in real estate, our experienced agents are here to guide you every step of the way.</p>",
             "summary": "Whether you are buying your first home, upgrading to your dream property, or investing in real estate, our experienced agents are here to guide you every step of the way."
@@ -266,11 +266,11 @@
           "title": "Rachel Morgan",
           "path": "/agents/rachel-morgan",
           "body": {
-            "processed": "<p>Rachel is the founder and lead broker of Crestview Realty. With over 15 years of experience and $250M in career sales, she specializes in luxury residential properties and has consistently been recognized as a top producer in the region.</p>",
-            "summary": "Rachel is the founder and lead broker of Crestview Realty. With over 15 years of experience and $250M in career sales, she specializes in luxury residential properties and has consistently been recogn"
+            "processed": "<p>Rachel is the founder and lead broker of X. Real Estate. With over 15 years of experience and $250M in career sales, she specializes in luxury residential properties and has consistently been recognized as a top producer in the region.</p>",
+            "summary": "Rachel is the founder and lead broker of X. Real Estate. With over 15 years of experience and $250M in career sales, she specializes in luxury residential properties and has consistently been recogn"
           },
           "position": "Broker / Owner",
-          "email": "rachel@crestviewrealty.com",
+          "email": "rachel@xrealestate.com",
           "phone": "(555) 234-5678",
           "licenseNumber": "RE-2010-45678",
           "photo": {
@@ -317,7 +317,7 @@
             "summary": "Tom specializes in first-time homebuyers and investment properties. His patient, educational approach has helped hundreds of families navigate the home buying process with confidence. He is bilingual "
           },
           "position": "Senior Agent",
-          "email": "tom@crestviewrealty.com",
+          "email": "tom@xrealestate.com",
           "phone": "(555) 234-5679",
           "licenseNumber": "RE-2015-67890",
           "photo": {
@@ -364,7 +364,7 @@
             "summary": "Priya brings a background in urban planning to her real estate practice, giving her clients unique insights into neighborhood development trends and investment potential. She focuses on condominiums a"
           },
           "position": "Agent, Urban Properties",
-          "email": "priya@crestviewrealty.com",
+          "email": "priya@xrealestate.com",
           "phone": "(555) 234-5680",
           "licenseNumber": "RE-2018-12345",
           "photo": {
@@ -671,11 +671,11 @@
         "entity": {
           "__typename": "NodePage",
           "id": "about-page",
-          "title": "About Crestview Realty",
+          "title": "About X. Real Estate",
           "path": "/about",
           "body": {
-            "processed": "<p>Crestview Realty has been helping families buy and sell homes since 2011. As a locally owned and operated brokerage, we combine deep neighborhood expertise with modern marketing strategies to deliver exceptional results for our clients.</p><h2>Our Approach</h2><p>We believe in a relationship-first approach to real estate. Our agents take the time to understand your goals, timeline, and budget before showing you a single property. This personalized service has earned us a 98% client satisfaction rating.</p><h2>Our Promise</h2><ul><li><strong>Expert Guidance</strong> - Licensed, experienced agents who know the local market</li><li><strong>Transparent Communication</strong> - Regular updates and honest advice throughout the process</li><li><strong>Full-Service Support</strong> - From financing to closing, we coordinate every detail</li></ul>",
-            "summary": "Crestview Realty has been helping families buy and sell homes since 2011. As a locally owned and operated brokerage, we combine deep neighborhood expertise with modern marketing strategies to deliver "
+            "processed": "<p>X. Real Estate has been helping families buy and sell homes since 2011. As a locally owned and operated brokerage, we combine deep neighborhood expertise with modern marketing strategies to deliver exceptional results for our clients.</p><h2>Our Approach</h2><p>We believe in a relationship-first approach to real estate. Our agents take the time to understand your goals, timeline, and budget before showing you a single property. This personalized service has earned us a 98% client satisfaction rating.</p><h2>Our Promise</h2><ul><li><strong>Expert Guidance</strong> - Licensed, experienced agents who know the local market</li><li><strong>Transparent Communication</strong> - Regular updates and honest advice throughout the process</li><li><strong>Full-Service Support</strong> - From financing to closing, we coordinate every detail</li></ul>",
+            "summary": "X. Real Estate has been helping families buy and sell homes since 2011. As a locally owned and operated brokerage, we combine deep neighborhood expertise with modern marketing strategies to deliver "
           }
         }
       }
@@ -688,11 +688,11 @@
         "entity": {
           "__typename": "NodePage",
           "id": "contact-page",
-          "title": "Contact Crestview Realty",
+          "title": "Contact X. Real Estate",,
           "path": "/contact",
           "body": {
-            "processed": "<p>Ready to start your real estate journey? We would love to hear from you.</p><h2>Office</h2><p>Crestview Realty<br/>456 Main Street, Suite 200<br/>Springfield, IL 62701</p><h2>Hours</h2><p>Monday - Friday: 9:00 AM - 6:00 PM<br/>Saturday: 10:00 AM - 4:00 PM<br/>Sunday: By Appointment</p><h2>Contact</h2><p>Phone: (555) 234-5678<br/>Email: info@crestviewrealty.com</p>",
-            "summary": "Ready to start your real estate journey? We would love to hear from you.OfficeCrestview Realty456 Main Street, Suite 200Springfield, IL 62701HoursMonday - Friday: 9:00 AM - 6:00 PMSaturday: 10:00 AM -"
+            "processed": "<p>Ready to start your real estate journey? We would love to hear from you.</p><h2>Office</h2><p>X. Real Estate<br/>456 Main Street, Suite 200<br/>Springfield, IL 62701</p><h2>Hours</h2><p>Monday - Friday: 9:00 AM - 6:00 PM<br/>Saturday: 10:00 AM - 4:00 PM<br/>Sunday: By Appointment</p><h2>Contact</h2><p>Phone: (555) 234-5678<br/>Email: info@xrealestate.com</p>",
+            "summary": "Ready to start your real estate journey? We would love to hear from you.OfficeX. Real Estate456 Main Street, Suite 200Springfield, IL 62701HoursMonday - Friday: 9:00 AM - 6:00 PMSaturday: 10:00 AM -"
           }
         }
       }

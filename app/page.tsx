@@ -12,13 +12,13 @@ export const dynamic = 'force-dynamic'
 
 
 export async function generateMetadata(): Promise<Metadata> {
-  const title = 'Compass Realty Group - Your Trusted Real Estate Partner Since 2005'
+  const title = 'X. Real Estate - Your Trusted Real Estate Partner'
   const description = 'Full-service real estate solutions for buyers, sellers, and investors with local expertise and personalized service.'
 
   return {
     title,
     description,
-    keywords: ['Crestview Realty', 'Real Estate', 'Homes for Sale', 'Property Listings', 'Real Estate Agents', 'Neighborhoods'],
+    keywords: ['X. Real Estate', 'Real Estate', 'Homes for Sale', 'Property Listings', 'Real Estate Agents', 'Neighborhoods'],
     openGraph: {
       title,
       description,

@@ -1,7 +1,7 @@
 {
-  "name": "decoupled-real-estate",
+  "name": "x-real-estate",
   "version": "0.1.0",
-  "description": "University website starter template for Decoupled Drupal + Next.js",
+  "description": "Professional real estate website template for X. Real Estate built with Next.js and Drupal",
   "private": true,
   "engines": {
     "node": ">=18.18.0",

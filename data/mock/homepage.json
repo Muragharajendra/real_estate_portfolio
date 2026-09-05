@@ -6,10 +6,10 @@
         {
           "__typename": "NodeHomepage",
           "id": "homepage",
-          "title": "Crestview Realty Homepage",
+          "title": "X. Real Estate Homepage",
           "path": "/homepage",
           "heroTitle": "Find Your Perfect Home",
-          "heroSubtitle": "Crestview Realty",
+          "heroSubtitle": "X. Real Estate",
           "heroDescription": {
             "processed": "<p>Whether you are buying your first home, upgrading to your dream property, or investing in real estate, our experienced agents are here to guide you every step of the way.</p>",
             "summary": "Whether you are buying your first home, upgrading to your dream property, or investing in real estate, our experienced agents are here to guide you every step of the way."

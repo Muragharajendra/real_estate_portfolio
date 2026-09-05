@@ -72,7 +72,7 @@ test.describe('Blog', () => {
 test.describe('Static pages', () => {
   test('about page loads', async ({ page }) => {
     await page.goto('/about')
-    await expect(page).toHaveTitle(/About|Crestview/i)
+    await expect(page).toHaveTitle(/About|X\. Real Estate/i)
   })
 
   test('contact page loads', async ({ page }) => {

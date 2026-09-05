@@ -3,9 +3,9 @@ import { Mail, Phone, MapPin, Clock } from 'lucide-react'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Contact Us | Crestview Realty',
-  description: 'Get in touch with Crestview Realty. Schedule a showing, ask about listings, or connect with one of our experienced agents.',
-  keywords: ['Contact Crestview Realty', 'Real Estate Agent', 'Schedule Showing', 'Property Inquiry'],
+  title: 'Contact Us | X. Real Estate',
+  description: 'Get in touch with X. Real Estate. Schedule a showing, ask about listings, or connect with one of our experienced agents.',
+  keywords: ['Contact X. Real Estate', 'Real Estate Agent', 'Schedule Showing', 'Property Inquiry'],
 }
 
 export default function Contact() {
@@ -33,8 +33,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-gray-900">Email</h3>
-                    <p className="text-gray-600">info@crestviewrealty.com</p>
-                    <p className="text-gray-600">agents@crestviewrealty.com</p>
+                    <p className="text-gray-600">info@xrealestate.com</p>
+                    <p className="text-gray-600">agents@xrealestate.com</p>
                   </div>
                 </div>
 

@@ -17,8 +17,8 @@ function getSiteUrl(): string {
 
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
-  title: { default: 'Compass Realty Group', template: `%s | Compass Realty Group` },
-  description: 'Full-service real estate solutions for buyers, sellers, and investors with local expertise and personalized service.',
+  title: { default: 'X. Real Estate', template: `%s | X. Real Estate` },
+  description: 'Full-service real estate solutions for buyers, sellers, and investors with local expertise and personalized service.'
   formatDetection: { email: false, address: false, telephone: false },
   icons: { icon: [{ url: '/icon', sizes: '32x32', type: 'image/png' }, { url: '/favicon.ico', sizes: 'any' }], apple: [{ url: '/apple-icon', sizes: '180x180', type: 'image/png' }] },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-video-preview': -1, 'max-image-preview': 'large', 'max-snippet': -1 } },

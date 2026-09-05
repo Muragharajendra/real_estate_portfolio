@@ -1,8 +1,8 @@
-# Decoupled Real Estate
+# X. Real Estate
 
 A professional real estate website built with Next.js and Drupal for brokerages, agencies, and independent agents. Showcase property listings, agent profiles, neighborhood guides, and market insights -- all managed through a headless CMS.
 
-![Decoupled Real Estate Screenshot](docs/screenshot.png)
+![X. Real Estate Screenshot](docs/screenshot.png)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/nextagencyio/decoupled-real-estate&project-name=my-realty)
 
@@ -82,7 +82,7 @@ npm run setup-content
 
 This imports the following sample content:
 
-- **Homepage** -- "Crestview Realty" with hero, 4 stat counters (1,200+ homes sold, 98% satisfaction, $850M volume, 15 years), and CTA
+- **Homepage** -- "X. Real Estate" with hero, 4 stat counters (1,200+ homes sold, 98% satisfaction, $850M volume, 15 years), and CTA
 - **Listing: Charming Craftsman Bungalow** -- 3 bed / 2 bath, $485,000, Oak Park
 - **Listing: Modern Lakefront Condominium** -- 2 bed / 2 bath, $375,000, Lakeside
 - **Listing: Stately Colonial Estate** -- 5 bed / 4 bath, $1,250,000, Willow Creek
@@ -96,7 +96,7 @@ This imports the following sample content:
 - **Blog: Spring 2026 Housing Market Outlook** -- Market conditions and advice
 - **Blog: First-Time Homebuyer Guide** -- Step-by-step buying process
 - **Blog: 10 Home Staging Tips** -- Proven seller strategies
-- **About Crestview Realty** -- Company history and approach
+- **About X. Real Estate** -- Company history and approach
 - **Contact** -- Office location, hours, and contact details
 
 </details>

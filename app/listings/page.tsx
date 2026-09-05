@@ -9,8 +9,8 @@ export const revalidate = 3600
 export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
-  title: 'Property Listings | Crestview Realty',
-  description: 'Browse homes for sale and rent in your area. From craftsman bungalows to luxury condos, find your perfect property with Crestview Realty.',
+  title: 'Property Listings | X. Real Estate',
+  description: 'Browse homes for sale and rent in your area. From craftsman bungalows to luxury condos, find your perfect property with X. Real Estate.',
 }
 
 async function getListings() {
