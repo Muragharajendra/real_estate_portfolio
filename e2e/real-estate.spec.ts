@@ -19,7 +19,7 @@ test.describe('Homepage', () => {
 test.describe('Listings', () => {
   test('listing page shows property cards', async ({ page }) => {
     await page.goto('/listings')
-    await expect(page).toHaveTitle(/Listings|Real Estate/i)
+    await expect(page).toHaveTitle(/Listings|X\. Real Estate/i)
     await expect(page.getByText('Charming Craftsman Bungalow')).toBeVisible()
     await expect(page.getByText('Modern Lakefront Condominium')).toBeVisible()
   })

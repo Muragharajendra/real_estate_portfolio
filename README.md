@@ -4,7 +4,7 @@ A professional real estate website built with Next.js and Drupal for brokerages,
 
 ![X. Real Estate Screenshot](docs/screenshot.png)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/nextagencyio/decoupled-real-estate&project-name=my-realty)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Muragharajendra/real_estate_portfolio&project-name=x-real-estate)
 
 ## Features
 
@@ -19,8 +19,8 @@ A professional real estate website built with Next.js and Drupal for brokerages,
 ### 1. Clone the template
 
 ```bash
-npx degit nextagencyio/decoupled-real-estate my-realty
-cd my-realty
+git clone https://github.com/Muragharajendra/real_estate_portfolio.git
+cd real_estate_portfolio
 npm install
 ```
 
@@ -194,7 +194,7 @@ To switch to production with real CMS data:
 ## Deployment
 
 ### Vercel (Recommended)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/nextagencyio/decoupled-real-estate)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Muragharajendra/real_estate_portfolio&project-name=x-real-estate)
 
 Set `NEXT_PUBLIC_DEMO_MODE=true` in Vercel environment variables for a demo deployment.
 
