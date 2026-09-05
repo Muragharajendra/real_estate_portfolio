@@ -688,7 +688,7 @@
         "entity": {
           "__typename": "NodePage",
           "id": "contact-page",
-          "title": "Contact X. Real Estate",,
+          "title": "Contact X. Real Estate",
           "path": "/contact",
           "body": {
             "processed": "<p>Ready to start your real estate journey? We would love to hear from you.</p><h2>Office</h2><p>X. Real Estate<br/>456 Main Street, Suite 200<br/>Springfield, IL 62701</p><h2>Hours</h2><p>Monday - Friday: 9:00 AM - 6:00 PM<br/>Saturday: 10:00 AM - 4:00 PM<br/>Sunday: By Appointment</p><h2>Contact</h2><p>Phone: (555) 234-5678<br/>Email: info@xrealestate.com</p>",
